@@ -1,0 +1,13 @@
+/*
+This is the stylesheet for the game. The only thing this file is used for is readjusting the margins of the game in a browser.
+*/
+body{
+	margin: 0px;
+}
+
+/*
+@font-face {
+    font-family: CustomFont;
+    src: url("assets2/font/Custom-Font.ttf");
+}
+*/
